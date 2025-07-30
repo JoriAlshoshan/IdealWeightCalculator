@@ -14,13 +14,6 @@ Includes multiple test cases using a clean and modular approach.
 
 ---
 
-## Unit Testing
-
-Unit testing is the process of testing individual parts of your code (called units) to ensure they work correctly.  
-In this project, unit tests verify that the ideal weight calculations and other core functions behave as expected, helping to catch bugs early and improve code quality.
-
----
-
 ## Technologies
 
 - C#  
@@ -32,7 +25,45 @@ In this project, unit tests verify that the ideal weight calculations and other 
 
 ---
 
-## Contact
+## Getting Started
 
-For any questions or feedback:  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/JoriAlshoshan/IdealWeightCalculator.git
+Open the solution in Visual Studio 2022.
+
+Configure your SQL Server connection string in WeightContext.cs.
+
+Build and run the project.
+
+Run the unit tests from the test project.
+
+---
+
+## About Unit Testing
+This project applies essential Unit Testing practices including:
+
+Writing clear and simple unit tests
+
+Following the Arrange-Act-Assert (AAA) pattern
+
+Using assertions to verify outcomes
+
+Managing setup and cleanup for tests
+
+Testing for expected exceptions
+
+Creating data-driven test cases
+
+Isolating tests by mocking dependencies
+
+Applying Test Driven Development (TDD) principles
+
+These practices help ensure the code is robust, reliable, and maintainable.
+---
+
+### Contact
+For any questions or feedback:
 jori.alshoshan@gmail.com
+
+© 2025 Jori Alshoshan
