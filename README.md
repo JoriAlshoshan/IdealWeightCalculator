@@ -30,36 +30,37 @@ Includes multiple test cases using a clean and modular approach.
 1. Clone the repository:  
    ```bash
    git clone https://github.com/JoriAlshoshan/IdealWeightCalculator.git
-Open the solution in Visual Studio 2022.
+2. Open the solution in Visual Studio 2022.
 
-Configure your SQL Server connection string in WeightContext.cs.
+3. Configure your SQL Server connection string in WeightContext.cs.
 
-Build and run the project.
+4. Build and run the project.
 
-Run the unit tests from the test project.
+5. Run the unit tests from the test project.
 
 ---
 
 ## About Unit Testing
 This project applies essential Unit Testing practices including:
 
-Writing clear and simple unit tests
+. Writing clear and simple unit tests
 
-Following the Arrange-Act-Assert (AAA) pattern
+. Following the Arrange-Act-Assert (AAA) pattern
 
-Using assertions to verify outcomes
+. Using assertions to verify outcomes
 
-Managing setup and cleanup for tests
+. Managing setup and cleanup for tests
 
-Testing for expected exceptions
+. Testing for expected exceptions
 
-Creating data-driven test cases
+. Creating data-driven test cases
 
-Isolating tests by mocking dependencies
+. Isolating tests by mocking dependencies
 
-Applying Test Driven Development (TDD) principles
+. Applying Test Driven Development (TDD) principles
 
-These practices help ensure the code is robust, reliable, and maintainable.
+- These practices help ensure the code is robust, reliable, and maintainable.
+
 ---
 
 ### Contact
