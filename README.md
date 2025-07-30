@@ -14,6 +14,13 @@ Includes multiple test cases using a clean and modular approach.
 
 ---
 
+## Unit Testing
+
+Unit testing is the process of testing individual parts of your code (called units) to ensure they work correctly.  
+In this project, unit tests verify that the ideal weight calculations and other core functions behave as expected, helping to catch bugs early and improve code quality.
+
+---
+
 ## Technologies
 
 - C#  
@@ -22,7 +29,7 @@ Includes multiple test cases using a clean and modular approach.
 - SQL Server Express  
 - MSTest for Unit Testing  
 - Visual Studio 2022
-  
+
 ---
 
 ## Contact
